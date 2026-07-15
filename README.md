@@ -62,4 +62,4 @@ MIT — Free to use for educational purposes.
 
 ## About Bit by Bit Coding
 
-Bit by Bit (BbB) Coding is a non-profit organisation dedicated to making coding education accessible to all students in Singapore, regardless of socioeconomic background. Learn more at [bitbybitcoding.com](https://bitbybitcoding.com).
+Bit by Bit (BbB) Coding is a non-profit organisation dedicated to making coding education accessible to all students in Singapore, regardless of socioeconomic background. Learn more at [www.bbbcoding.org](https://www.bbbcoding.org).
